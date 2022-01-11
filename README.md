@@ -13,7 +13,7 @@ Explanations:
 
 Launch Time: either "hot start" or "cold start"
 1. Command format: _>launch_time.py APP_PACKAGE APP_ACTIVITY EXECUTION_TIMES 
-2. Example: _>launch_time.py com.touchboarder.android.api.demos, com.touchboarder.androidapidemos.MainActivity 10
+2. Example: _>launch_time.py com.touchboarder.android.api.demos, com.touchboarder.androidapidemos.MainActivity 10 "cold start"
 
 CPU:
 1. Command format: _>cpu.py APP_PACKAGE APP_ACTIVITY EXECUTION_TIMES 
