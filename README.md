@@ -1,4 +1,4 @@
-This is a tool to help with app performance testing on Android and generate reports by Matplotlib. It measures following aspects:
+This is a simple tool to perform basic app performance testing on Android and generate reports by Matplotlib. It measures following aspects:
 1. Launch Time:
 2. CPU
 3. Memory
