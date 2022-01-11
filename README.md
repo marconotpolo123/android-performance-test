@@ -21,7 +21,7 @@ CPU:
 
 Memory:
 1. Command format: _>memory.py APP_PACKAGE APP_ACTIVITY EXECUTION_TIMES
-2. Example: _>memory.py com.touchboarder.android.api.demos, com.touchboarder.androidapidemos.MainActivity 10
+2. Example: _>memory.py com.touchboarder.android.api.demos, com.touchboarder.androidapidemos.MainActivity 20
 
 Frame Stats:
 1. Command format: _>frame_stats.py APP_PACKAGE APP_ACTIVITY EXECUTION_TIMES
